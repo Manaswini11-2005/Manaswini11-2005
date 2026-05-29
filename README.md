@@ -1,9 +1,8 @@
 <div align="center">
 
-<!-- Dynamic Typing Header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&width=700&lines=Manaswini+Kolupula;AI+%26+ML+Engineer+%7C+Data+Analyst;Building+Intelligent+Systems+%F0%9F%A7%A0)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Manaswini+Kolupula;AI+%26+ML+Engineer+%7C+Data+Analyst;Fresh+Graduate+%7C+2026+Batch)](https://git.io/typing-svg)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Manaswini%20Kolupula&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=AI%20%26%20ML%20Engineer%20%7C%20Data%20Analyst%20%7C%20CSE%20Student&descAlignY=55&descSize=16&descColor=a0cfee" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Manaswini%20Kolupula&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=AI%20%26%20ML%20Engineer%20%7C%20Data%20Analyst%20%7C%20CSE%202026%20Graduate&descAlignY=55&descSize=16&descColor=a0cfee" width="100%"/>
 
 </div>
 
@@ -11,32 +10,21 @@
 
 ## About Me
 
-```python
-class ManaswiniKolupula:
-    def __init__(self):
-        self.name        = "Manaswini Kolupula"
-        self.role        = "B.Tech CSE (AI & ML) | Final Year"
-        self.university  = "JNTUH"
-        self.cgpa        = 8.3
-        self.location    = "Telangana, India"
-        self.graduating  = 2026
-        self.interests   = ["Machine Learning", "Computer Vision",
-                            "NLP", "Data Analytics", "Deep Learning"]
+<img align="right" width="220" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-    def mission(self):
-        return """
-        Solving real-world problems through intelligent systems
-        and data-driven decision making.
-        """
-```
+**Fresh Graduate — B.Tech CSE (AI & ML) | 2026 Batch**
+Vaageswari College of Engineering, affiliated to JNTUH · CGPA: **8.3**
+📍 Telangana, India
 
-> Computer Science Engineering student specializing in **Artificial Intelligence & Machine Learning** with hands-on experience in end-to-end ML pipelines, deep learning architectures, NLP systems, and business intelligence dashboards. Passionate about deploying AI solutions that create measurable impact.
+I am a Computer Science Engineering graduate specializing in **Artificial Intelligence & Machine Learning**, passionate about building intelligent systems and translating data into real-world impact. My work spans deep learning, computer vision, NLP, and business intelligence — with hands-on projects deployed using Streamlit, Django, and Power BI.
+
+Currently seeking opportunities as an **AI/ML Engineer**, **Data Analyst**, or **Software Developer** where I can apply my skills to solve meaningful problems.
 
 ---
 
 ## Technical Skills
 
-### Languages & Frameworks
+### Languages
 ![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB)
 ![SQL](https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=336791)
 ![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26)
@@ -63,7 +51,6 @@ class ManaswiniKolupula:
 ![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF)
 ![Jupyter](https://img.shields.io/badge/Jupyter-0D1117?style=for-the-badge&logo=jupyter&logoColor=F37626)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
-![REST API](https://img.shields.io/badge/REST%20API-0D1117?style=for-the-badge&logo=fastapi&logoColor=009688)
 
 ---
 
@@ -141,37 +128,37 @@ class ManaswiniKolupula:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ManaswiniKolupula&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&ring_color=00D9FF" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Manaswini11-2005&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&ring_color=00D9FF" />
 &nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManaswiniKolupula&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=c9d1d9&langs_count=8" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manaswini11-2005&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=c9d1d9&langs_count=8" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ManaswiniKolupula&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF&sideLabels=c9d1d9&dates=c9d1d9" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Manaswini11-2005&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF&sideLabels=c9d1d9&dates=c9d1d9" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ManaswiniKolupula&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&area_color=00D9FF&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Manaswini11-2005&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&area_color=00D9FF&hide_border=true" width="95%"/>
 
 </div>
 
 ---
 
-## Certifications & Achievements
+## Certifications
 
 | Certification | Issuer | Domain |
 |---|---|---|
-| Machine Learning Specialization | Coursera / DeepLearning.AI | AI & ML |
-| Python for Data Science | IBM / Coursera | Data Science |
-| Data Visualization with Tableau | Tableau / Coursera | Analytics & BI |
-| SQL for Data Analysis | Mode / Udemy | Database |
-| Deep Learning Fundamentals | NVIDIA / Fast.ai | Deep Learning |
-
-> *Update this section with your actual certifications and links.*
+| Artificial Intelligence Foundation | Wipro TalentNext & NASSCOM | AI & ML |
+| Data Science Fundamentals | Inventateq Software Training Institute | Data Science |
+| Python Programming | Udemy | Programming |
+| Data Analytics Virtual Experience | Deloitte (Forage) | Data Analytics |
+| Data Visualization: Empowering Business with Effective Insights | TATA (Forage) | Data Visualization |
+| Microsoft Power BI | Udemy | BI & Analytics |
+| Tableau A-Z | Udemy | Data Visualization |
 
 ---
 
@@ -188,15 +175,13 @@ SQL & Database Management            ██████████████�
 
 ---
 
-## Connect
+## Connect With Me
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&label=Connect)](https://linkedin.com/in/manaswini-kolupula)
-[![Gmail](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335&label=Reach+Out)](mailto:manaswinikolupula@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF&label=Follow)](https://github.com/ManaswiniKolupula)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=FFFFFF&label=View)](https://manaswinikolupula.dev)
-[![Kaggle](https://img.shields.io/badge/Kaggle-0D1117?style=for-the-badge&logo=kaggle&logoColor=20BEFF&label=Notebooks)](https://kaggle.com/manaswinikolupula)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&label=Connect)](https://www.linkedin.com/in/kolupula-manaswini-505061331)
+[![Gmail](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335&label=Reach+Out)](mailto:manaswinikolupula124@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF&label=Follow)](https://github.com/Manaswini11-2005)
 
 </div>
 
@@ -206,7 +191,7 @@ SQL & Database Management            ██████████████�
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=ManaswiniKolupula&color=00D9FF&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=Manaswini11-2005&color=00D9FF&style=flat-square&label=Profile+Views)
 
 *"The goal is to turn data into information, and information into insight." — Carly Fiorina*
 
