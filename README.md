@@ -181,3 +181,27 @@ Currently seeking opportunities as an **AI/ML Engineer**, **Data Analyst**, or *
 ---
 
 ## Core Competencies
+
+---
+
+## Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&label=Connect)](https://www.linkedin.com/in/kolupula-manaswini-505061331)
+[![Gmail](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335&label=Reach+Out)](mailto:manaswinikolupula124@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF&label=Follow)](https://github.com/Manaswini11-2005)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Manaswini11-2005&color=00D9FF&style=flat-square&label=Profile+Views)
+
+*"The goal is to turn data into information, and information into insight." — Carly Fiorina*
+
+</div>
