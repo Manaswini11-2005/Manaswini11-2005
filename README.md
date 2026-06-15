@@ -120,6 +120,24 @@ Currently seeking opportunities as an **AI/ML Engineer**, **Data Analyst**, or *
       </p>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>◈ IPL Cricket Analytics Dashboard — Power BI</h3>
+      <p>Interactive Power BI dashboard analyzing IPL match and player performance data from <strong>2008–2024</strong> with KPI metrics, team win analysis, toss impact, top run scorers, wicket takers, and dynamic season/venue filters.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square"/>
+        <img src="https://img.shields.io/badge/DAX-217346?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Power%20Query-4479A1?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Data%20Modeling-00D9FF?style=flat-square"/>
+      </p>
+      <a href="https://github.com/Manaswini11-2005/IPL-Cricket-Analytics--Dashboard">
+        <img src="https://img.shields.io/badge/View%20on%20GitHub-0D1117?style=flat-square&logo=github&logoColor=white"/>
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <!-- Reserved for future project -->
+    </td>
+  </tr>
 </table>
 
 ---
@@ -163,36 +181,3 @@ Currently seeking opportunities as an **AI/ML Engineer**, **Data Analyst**, or *
 ---
 
 ## Core Competencies
-
-```
-Machine Learning Pipeline Design     ████████████████░░░░  80%
-Deep Learning & Computer Vision      ███████████████░░░░░  75%
-Natural Language Processing          ██████████████░░░░░░  70%
-Data Analytics & Business Intel.     █████████████████░░░  85%
-Python & Scientific Computing        ████████████████████  90%
-SQL & Database Management            ███████████████░░░░░  75%
-```
-
----
-
-## Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&label=Connect)](https://www.linkedin.com/in/kolupula-manaswini-505061331)
-[![Gmail](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335&label=Reach+Out)](mailto:manaswinikolupula124@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF&label=Follow)](https://github.com/Manaswini11-2005)
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Manaswini11-2005&color=00D9FF&style=flat-square&label=Profile+Views)
-
-*"The goal is to turn data into information, and information into insight." — Carly Fiorina*
-
-</div>
